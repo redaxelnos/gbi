@@ -936,3 +936,4 @@ def display_click_data(map_click, matrix_click, is_open):
 
 if __name__ == '__main__':
     app.run(debug=True)
+    
